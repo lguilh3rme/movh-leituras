@@ -1,0 +1,8 @@
+{
+  "Força e hipertrofia": "\"resistance training\"[tiab] AND (hypertrophy[tiab] OR \"muscle strength\"[tiab]) AND (volume[tiab] OR frequency[tiab] OR failure[tiab] OR \"rest interval\"[tiab] OR \"rest period\"[tiab])",
+  "Treino híbrido (força + corrida)": "(\"concurrent training\"[tiab] OR \"concurrent strength and endurance\"[tiab] OR \"interference effect\"[tiab])",
+  "Corrida e distribuição de intensidade": "running[tiab] AND (\"training intensity distribution\"[tiab] OR polarized[tiab] OR pyramidal[tiab] OR \"interval training\"[tiab] OR \"running-related injur*\"[tiab])",
+  "HIIT e condicionamento": "(\"high-intensity interval training\"[tiab] OR HIIT[tiab]) AND (VO2max[tiab] OR \"cardiorespiratory fitness\"[tiab])",
+  "Circuito, funcional e CrossFit": "(\"circuit training\"[tiab] OR \"functional training\"[tiab] OR CrossFit[tiab] OR \"high-intensity functional training\"[tiab])",
+  "Kettlebell": "kettlebell[tiab]"
+}
