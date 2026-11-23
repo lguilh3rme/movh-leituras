@@ -1,6 +1,16 @@
 # Inbox de leituras do MOVH
 Candidatas automáticas (PubMed; revisões, meta-análises, ensaios). Nada aqui é verificado: revisar com o professor, aprovar ou descartar e só então passar para `docs/base-teorica.md` do MovhGen.
 ---
+## 2026-11-23 (3 novas, últimos 10 dias)
+### Força e hipertrofia
+- [ ] **Efficacy and safety of blood flow restriction exercise training in adults aged 60 years and older: an umbrella review of systematic reviews** Chen S et al., BMC Geriatr (2026). Journal Article, Systematic Review. PMID 43069040 doi:10.1186/s12877-026-08156-5. https://pubmed.ncbi.nlm.nih.gov/43069040/
+
+### HIIT e condicionamento
+- [ ] **From efficacy verification to precision intervention: a dual-database bibliometric and clinical mapping analysis of therapeutic exercise for adolescent obesity (2016-2025)** Yao L et al., Front Public Health (2026). Journal Article, Systematic Review. PMID 43061193 doi:10.3389/fpubh.2026.1987718. https://pubmed.ncbi.nlm.nih.gov/43061193/
+
+### Circuito, funcional e CrossFit
+- [ ] **Lower-limb performance and muscle soreness after short-term dark chocolate intake in CrossFit®-trained women: an exploratory secondary analysis** Safari K et al., J Int Soc Sports Nutr (2026). Journal Article, Randomized Controlled Trial. PMID 43056144 doi:10.1080/15502783.2026.2766045. https://pubmed.ncbi.nlm.nih.gov/43056144/
+
 ## 2026-11-16 (3 novas, últimos 10 dias)
 ### Treino híbrido (força + corrida)
 - [ ] **Comparative efficacy of time-restricted eating combined with different exercise modalities for improving body composition, metabolic health, and physical performance in adults: a systematic review and fat-mass network meta-analysis** Li H et al., Front Nutr (2026). Journal Article, Systematic Review. PMID 43010998 doi:10.3389/fnut.2026.1966901. https://pubmed.ncbi.nlm.nih.gov/43010998/
